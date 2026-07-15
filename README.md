@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.github.mp4" alt="Banner do Perfil" width="100%">
+  <img src="Bem-vindo ao meu GitHub!.png" alt="Banner do Perfil" width="100%">
 </p>
 
 # Olá! 👋
